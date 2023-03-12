@@ -35,6 +35,21 @@ A public archive of a free share obsidian database. See -> [BV1as4y1b762@bilibil
 - [07编者的性格.md](https://github.com/KJH-x/English_synonyms/blob/main/英语词义分类数据库（大学版）/英语词义分类数据库（大学版）/0本资料库的基本信息/07编者的性格.md)
 - [08其它想说的话.md](https://github.com/KJH-x/English_synonyms/blob/main/英语词义分类数据库（大学版）/英语词义分类数据库（大学版）/0本资料库的基本信息/08其它想说的话.md)
 
+## Usage
+
+1. You are expected to clone this repo or download the release version. (Or simply use the pdf)
+2. Get [obsidian](https://obsidian.md/) for free 
+3. Install and open the folder (英语词义分类数据库（大学版）)* with the software
+4. Enjoy your usage
+
+* : folder
+```
+- .
+- 英语词义分类数据库（大学版）      <- Open this folder
+   |- .
+   |- .obsidian                  <- Not this one
+   |- 英语词义分类数据库（大学版）  <- Not this one
+```
 ## Comments
 
 ### Comments from its original creator (Partial)
