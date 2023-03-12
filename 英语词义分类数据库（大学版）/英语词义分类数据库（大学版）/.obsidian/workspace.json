@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1d71cb23069b3bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3733d534268509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfbc9a3afe88685a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50达成意志/04方法 方式.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0970254c8c8d36e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89058de46ac004dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52eff10e1846f31b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b2da44b56af391a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "*like*",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09503df7a89a6176",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248
+  },
+  "right": {
+    "id": "f51eb912e7dd249a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f10e0cf6d9ab8be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59cf6c926d87d1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "50达成意志/04方法 方式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6746d25e627864b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "50达成意志/04方法 方式.md"
+              }
+            }
+          },
+          {
+            "id": "b1e2b5d80eb1918c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "50达成意志/04方法 方式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "629d3490785a7310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cfbc9a3afe88685a",
+  "lastOpenFiles": [
+    "0本资料库简介及查询方法/03版权声明.md",
+    "14态度性格/01喜欢 热爱 专心 沉溺 上瘾.md",
+    "14态度性格/03愿意 乐意 想要 自愿 志愿.md",
+    "14态度性格/10需要 需求 希望 渴望 羡慕.md",
+    "40道德品质/04责任 义务.md",
+    "30意志顺逆/02优劣.md",
+    "19程度/02重要 主要.md",
+    "18判断/04肯定 否定.md",
+    "18判断/01合理 荒谬.md",
+    "17界限/02准确 模糊.md"
+  ]
+}
